@@ -1,0 +1,181 @@
+.cuerpo{
+    background-image: linear-gradient(to right,#00c19c,#007d92,#003d97,#ffc977,#ff9ca3);
+  
+}
+.row{
+    background-color: white;
+    box-shadow: 1px 1px 10px 0 rgba(4, 129, 119, 0.295);
+    height:540px;
+    
+}
+#myMenu li a:hover {
+    background-color: #eee;
+  }
+  .logo{
+      width:20%;
+      height: auto;
+      margin-right: 75%;
+      
+      
+  }
+  .opciones{
+      height:20%;
+     margin-bottom: 10%;
+     margin-top: 10%;
+     
+  }
+.navbar{
+    background-color: white;
+    
+}
+.opciones:hover{
+    background-image: linear-gradient(to right,#00ffff,#c6efed,#20dbd8);
+    border-radius: 5px;
+    color:white;
+}
+.opciones2:hover{
+    background-image: linear-gradient(to right,#00ffff,#c6efed,#20dbd8);
+    border-radius: 5px;
+    color:white;
+}
+#fotoPerfil{
+    width:15%;
+    height:auto;
+    border-radius: 5px;
+
+
+}
+#fotoPerfil:hover {opacity: 0.7;}
+
+
+
+#perfil{
+    background-color:azure;
+margin-left: 50%;
+}
+.opciones2{
+    padding-left: 15%;
+    margin-top: 10%;
+}
+.labels{
+    color:#337ab7;
+    margin-left: 5%;
+}
+.etiquetas{
+    margin-left: 5%;
+}
+
+.vistas{
+height:100%;
+
+}
+.imagen{
+    width:45%;
+    height:auto;
+    margin-top: 60px;
+    box-shadow: 1px 1px 10px 0 rgba(64, 207, 195, 0.76);
+    border-radius: 10px;
+}
+
+.col-sm-9{
+    background-color: white;
+    box-shadow: 1px 1px 10px 0 rgba(4, 129, 119, 0.295);
+}
+.formulario{
+    margin-top: 30px;
+}
+.subtitulo{
+    text-align: center;
+    color:#004c6b;
+    text-decoration: underline;
+}
+.botones{
+    margin-left: 70%;
+}
+.etiquetasForm{
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.foto{
+    width:60%;
+    height:auto;
+    border-radius:5px;
+    margin-top: 20%;
+    margin-left:10%;
+}
+#cartas{
+    box-shadow: 1px 1px 10px 0 rgba(236, 203, 13, 0.836);
+    border-radius:5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+}
+h5{
+    text-align: center;
+    
+}
+.infoP{
+    font-size: 10px;
+    
+    
+}
+p{
+    font-weight: bold;
+    font-size: 12px;
+}
+.botonP{
+    background-color: #20dbd8;
+    color:black;
+    border-color: white;
+}
+.botonP:hover{
+    opacity: 50%;
+}
+#adorno{
+    width:90%;
+    height:auto;
+    margin-top: 5%;
+    margin-left: 10%;
+    box-shadow: 1px 1px 10px 0 rgba(177, 128, 136, 0.897);
+    margin-bottom: 10%;
+}
+#aloe{
+    width:30%;
+    height:auto;
+    margin-top: 5%;
+    box-shadow: 1px 1px 10px 0 rgba(26, 248, 18, 0.897);
+    margin-left: 70%;
+    margin-bottom: 5%;
+}
+#myChart{
+    box-shadow: 1px 1px 10px 0 rgba(5, 248, 208, 0.897);
+    margin-bottom: 5%;
+}
+#pdf{
+    width:100%;
+    height:450px;
+}
+.pdf{
+    height:100%;
+    background-color: #003d97;
+}
+.pru{
+    display: flex;
+    width: 100%;
+}
+
+
+.cja{
+    width:20%;
+    
+}
+.textcaja{
+margin-right: 10px;
+}
+#imgModal{
+height: 300px;
+width: auto;
+margin-left: 35%;
+background-color: #003d97;
+
+}

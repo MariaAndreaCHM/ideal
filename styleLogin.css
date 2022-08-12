@@ -1,0 +1,80 @@
+*{
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+}
+  .fondo{
+    background-image: linear-gradient(to right,#c6efed,#ff8795,#ce5573,#f4b499);
+  }
+  .fondo2{
+    background-image: linear-gradient(to right,#1aad94,#2099d8,#20dbd8,#c6efed);
+  }
+  .row{
+      background-color: white;
+      box-shadow: 1px 1px 10px 0 rgba(4, 129, 119, 0.295);
+      margin-top: 100px;
+  }
+  .img{
+      width: 100%;
+      height: auto;
+  }
+  .col-sm-8{
+      background-color:#d3f1f9;
+  }
+  .logo{
+      width:100%;
+      height:auto;
+      margin-top: 30px;
+     
+  }
+  #login{
+      padding-left: 10%;
+  }
+  .form-control{
+      margin-bottom: 5%;
+      width: 100%;
+   
+  }
+  
+  .btn{
+      
+     width: 100%;
+      background-color: #52a5a1;
+      color: aliceblue;
+ 
+  }
+ 
+  .label1{
+      font-size: 14px;
+      color: black;
+      margin-left: 5%;
+  }
+ .link{
+    font-size: 11px;
+    color: gray;
+    margin-left: 20%;
+ }
+  .titulo{
+      margin-bottom: 10%;
+      margin-left: 5%;
+      
+  }
+  .link:hover{
+      text-decoration: 1px solid underline;
+      color:#52a5a1;
+     
+  }
+  .img2{
+    width:80%;
+    height:auto;
+}
+.logo2{
+  width:50%;
+  height:auto;
+  margin-top: 30px
+}
+#modelo{
+    background-color:#c8c5c4;
+}
+.col-sm-10{
+margin-bottom:3%;
+}
